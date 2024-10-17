@@ -1,6 +1,6 @@
 # Sandworm: Restoring and Preserving Natural Ecosystems with AI
 
-SandWorm helps farmers and communities around the world to restore and preserve natural ecosystems.
+SandWorm helps farmers and communities around the world to restore and preserve Agricultural Ecosystems.
 
 - **Preservation**: A farming assisstant generates personal seasonal farming plans based on family needs and environment data (weather data, soil characteristics, and crop market prices).
 
@@ -25,6 +25,8 @@ By integrating this approach, we support an extendable architecture to generate 
 </p>
 
 ## Demo App
+
+See https://tedai-sandworm.streamlit.app/ 
 
 <p align="center">
   <img src="./static/sandworm.app.png">
