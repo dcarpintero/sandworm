@@ -81,7 +81,7 @@ def generate_season_plan(usr_context: str) -> str:
     model = ChatOpenAI(model="gpt-4o")
     tools = get_tools()
     tool_names = get_tool_names()
-    prompt = hub.pull("dcarpintero/ceres-react")
+    prompt = hub.pull("dcarpintero/sandworm-react")
 
     agent = create_tool_calling_agent(model, tools, prompt)
     agent_executor = AgentExecutor(agent=agent, tools=tools)
