@@ -18,6 +18,12 @@ By integrating this approach, we support an extendable architecture to generate 
   <img src="./static/sandworm.architecture.png">
 </p>
 
+## Observability
+
+<p align="center">
+  <img src="./static/sandworm.observability.png">
+</p>
+
 ## Demo App
 
 <p align="center">
@@ -60,6 +66,8 @@ streamlit run ./app.py
 
 ## Team Members
 
-Fatima Lundgren
-Dr. Thomas Hiebaum
-Diego Carpintero
+- Fatima Lundgren
+- Dr. Thomas Hiebaum
+- Diego Carpintero
+
+With ❤️ for TED.AI Vienna 2024
