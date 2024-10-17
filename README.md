@@ -34,7 +34,7 @@ See https://tedai-sandworm.streamlit.app/
 
 ## Demo Grazing Simulation (Restore Dessertification)
 
-![Sandworm Simulation](./static/sandworm.simulation.mp4)
+https://github.com/user-attachments/assets/cd47fd45-4117-4fdd-8687-83264ce1fa2a
 
 ## 🚀 Quickstart
 
