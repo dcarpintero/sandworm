@@ -24,7 +24,7 @@ By integrating this approach, we support an extendable architecture to generate 
   <img src="./static/sandworm.observability.png">
 </p>
 
-## Demo App
+## Demo App (Generate Personal Farming Plans)
 
 See https://tedai-sandworm.streamlit.app/ 
 
@@ -32,6 +32,9 @@ See https://tedai-sandworm.streamlit.app/
   <img src="./static/sandworm.app.png">
 </p>
 
+## Demo Grazing Simulation (Restore Dessertification)
+
+![Sandworm Simulation](./static/sandworm.simulation.mov)
 
 ## 🚀 Quickstart
 
